@@ -1,2 +1,2 @@
 # Course
- C++ programming exercises and coursework
+ C++ programming Coursework 1
